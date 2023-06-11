@@ -18,4 +18,10 @@
 1. git cofig --unset --global user.name
 
 
+
+1. git branch apple (애플 폴더 만듦)
+2. git switch apple (애플폴더로 변경)
+3. git push -u origin apple
+4. git merge apple 
+
  
